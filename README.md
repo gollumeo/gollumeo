@@ -21,6 +21,8 @@
 
 - ⚡ Fun fact **I'm kinda good at WoW, I guess.**
 
+- 🌐 You can find my website *under construction*. (Yes, I am teasing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/gollumo2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gollumo2" height="30" width="40" /></a>
@@ -33,3 +35,5 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gollumeo&" alt="gollumeo" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gollumeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://app.daily.dev/gollumeo"><img src="https://api.daily.dev/devcards/c41766d592114d5b8fe426c912799d22.png?r=cwa" width="400" alt="Pierre "Golluméo" Mauriello's Dev Card"/></a>
