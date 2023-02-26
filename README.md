@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/gollumo2" target="blank"><img src="https://img.shields.io/twitter/follow/gollumo2?logo=twitter&style=for-the-badge" alt="gollumo2" /></a> </p>
 
-<a align="right" href="https://app.daily.dev/gollumeo"><img src="https://api.daily.dev/devcards/c41766d592114d5b8fe426c912799d22.png" width="400" alt="Pierre "Golluméo" Mauriello's Dev Card"/></a>- 🔭 I’m currently working on **sharpening my backend skills.**
+<a href="https://app.daily.dev/gollumeo"><img align="right" src="https://api.daily.dev/devcards/c41766d592114d5b8fe426c912799d22.png" width="400" alt="Pierre 'Golluméo' Mauriello's Dev Card"/></a>- 🔭 I’m currently working on **sharpening my backend skills.**
 
 - 🌱 I’m currently learning **PHP, Laravel and SQL.**
 
