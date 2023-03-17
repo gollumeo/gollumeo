@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm kinda good at WoW, I guess.**
 
-- 🌐 You can find my website *under construction*. (Yes, I am teasing)
+- 🌐 You can find my website [here](https://pierre-mauriello.be). (Yes, I am teasing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
