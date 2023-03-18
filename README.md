@@ -9,11 +9,11 @@
 
 <a href="https://app.daily.dev/gollumeo"><img align="right" src="./devcard.svg" width="400" alt="Pierre 'Golluméo' Mauriello's Dev Card"/></a>- 🔭 I’m currently working on **sharpening my backend skills.**
 
-- 🌱 I’m currently learning **PHP, Laravel and SQL.**
+- 🌱 I’m currently learning **advanced Laravel, Machine Learning & PHP ML**.
 
 - 👯 I’m looking to collaborate on **backend and AI-related projects!**
 
-- 💬 Ask me about **JS, PHP (basics), SQL (basics).**
+- 💬 Ask me about **JS, PHP, SQL & Laravel.**
 
 - 📫 How to reach me **p.mauriello54@gmail.com**
 
@@ -21,7 +21,7 @@
 
 - ⚡ Fun fact **I'm kinda good at WoW, I guess.**
 
-- 🌐 You can find my website [here](https://pierre-mauriello.be). (Yes, I am teasing)
+- 🌐 You can find my website [here](https://pierre-mauriello.be). 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
