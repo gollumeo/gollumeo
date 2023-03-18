@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS, PHP, SQL & Laravel.**
 
-- 📫 How to reach me: **<a href='mailto:hire-me@pierre-mauriello.be>hire-me@pierre-mauriello.be</a>**
+- 📫 How to reach me: **<a href='mailto:hire-me@pierre-mauriello.be'>hire-me@pierre-mauriello.be</a>**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pierre-mauriello/](https://www.linkedin.com/in/pierre-mauriello/)
 
