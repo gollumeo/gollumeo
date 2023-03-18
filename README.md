@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **JS, PHP, SQL & Laravel.**
 
-- 📫 How to reach me **p.mauriello54@gmail.com**
+- 📫 How to reach me: **<a href='mailto:hire-me@pierre-mauriello.be>hire-me@pierre-mauriello.be</a>**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pierre-mauriello/](https://www.linkedin.com/in/pierre-mauriello/)
 
@@ -35,6 +35,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gollumeo&" alt="gollumeo" /></p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gollumeo&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
