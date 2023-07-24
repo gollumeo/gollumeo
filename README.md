@@ -9,7 +9,7 @@
 
 <a href="https://app.daily.dev/gollumeo"><img align="right" src="./devcard.svg" width="400" alt="Pierre 'Golluméo' Mauriello's Dev Card"/></a>- 🔭 I’m currently working on **sharpening my backend skills.**
 
-- 🌱 I’m currently learning **advanced Laravel, Machine Learning & PHP ML, MERN stack & Python**.
+- 🌱 I’m currently learning **Machine Learning, Management, TypeScript & Svelte**.
 
 - 👯 I’m looking to collaborate on **backend and AI-related projects!**
 
@@ -19,7 +19,7 @@
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/pierre-mauriello/](https://www.linkedin.com/in/pierre-mauriello/)
 
-- ⚡ Fun fact **I'm kinda good at WoW, I guess.**
+- ⚡ Fun fact: **I'm kinda good at WoW, I guess.**
 
 - 🌐 You can find my website [here](https://pierre-mauriello.be). 
 
