@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **backend and AI-related projects!**
 
-- 💬 Ask me about **JS, PHP, SQL & Laravel.**
+- 💬 Ask me about **JS, PHP, SQL, Laravel & Vue.js.**
 
 - 📫 How to reach me: **<a href='mailto:hire-me@pierre-mauriello.be'>hire-me@pierre-mauriello.be</a>**
 
