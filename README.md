@@ -7,9 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/gollumo2" target="blank"><img src="https://img.shields.io/twitter/follow/gollumo2?logo=twitter&style=for-the-badge" alt="gollumo2" /></a> </p>
 
-<a href="https://app.daily.dev/gollumeo"><img align="right" src="./devcard.svg" width="400" alt="Pierre 'Golluméo' Mauriello's Dev Card"/></a>- 🔭 I’m currently working on **sharpening my backend skills.**
+<a href="https://app.daily.dev/gollumeo"><img align="right" src="./devcard.svg" width="400" alt="Pierre 'Golluméo' Mauriello's Dev Card"/></a>
+- 🔭 I’m currently working on **sharpening my backend skills.**
 
-- 🌱 I’m currently learning **Machine Learning, Management, TypeScript & Svelte**.
+- 🌱 I’m currently learning **TypeScript, Java & React**.
 
 - 👯 I’m looking to collaborate on **backend and AI-related projects!**
 
