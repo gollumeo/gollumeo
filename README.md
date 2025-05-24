@@ -10,7 +10,7 @@
 <a href="https://app.daily.dev/gollumeo"><img align="right" src="./devcard.svg" width="400" alt="Pierre 'Golluméo' Mauriello's Dev Card"/></a>
 - 🔭 I’m currently working on **sharpening my backend skills.**
 
-- 🌱 I’m currently learning **TypeScript, Java & React**.
+- 🌱 I’m currently learning **C#, .NET & DDD**.
 
 - 👯 I’m looking to collaborate on **backend and AI-related projects!**
 
